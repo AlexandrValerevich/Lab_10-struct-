@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\Lab_10(struct)\Lab_10(struct)\bin\Debug\Lab_10(struct).exe.config
+C:\Users\Александр\source\repos\Lab_10(struct)\Lab_10(struct)\bin\Debug\Lab_10(struct).exe
+C:\Users\Александр\source\repos\Lab_10(struct)\Lab_10(struct)\bin\Debug\Lab_10(struct).pdb
+C:\Users\Александр\source\repos\Lab_10(struct)\Lab_10(struct)\obj\Debug\Lab_10(struct).csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Lab_10(struct)\Lab_10(struct)\obj\Debug\Lab_10(struct).csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Lab_10(struct)\Lab_10(struct)\obj\Debug\Lab_10(struct).exe
+C:\Users\Александр\source\repos\Lab_10(struct)\Lab_10(struct)\obj\Debug\Lab_10(struct).pdb
